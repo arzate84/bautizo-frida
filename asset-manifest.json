@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bautizo-frida/static/css/main.082286c5.css",
+    "main.js": "/bautizo-frida/static/js/main.d5104038.js",
+    "static/js/787.6a06d8cf.chunk.js": "/bautizo-frida/static/js/787.6a06d8cf.chunk.js",
+    "index.html": "/bautizo-frida/index.html",
+    "main.082286c5.css.map": "/bautizo-frida/static/css/main.082286c5.css.map",
+    "main.d5104038.js.map": "/bautizo-frida/static/js/main.d5104038.js.map",
+    "787.6a06d8cf.chunk.js.map": "/bautizo-frida/static/js/787.6a06d8cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082286c5.css",
+    "static/js/main.d5104038.js"
+  ]
+}
